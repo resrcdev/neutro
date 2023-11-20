@@ -1,0 +1,11 @@
+{
+  "workspaces": [
+    "demo"
+  ],
+  "scripts": {
+    "demo": "npm run dev --workspace demo"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
