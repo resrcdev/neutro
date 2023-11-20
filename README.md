@@ -7,7 +7,7 @@ Full Stack Web Platform Framework
 
 ## Vision
 
-Built upon [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components), Neutro offers the closest experience to the web platform for authoring web apps. The vision is minimalism and portability — avoid magical abstractions and enabable more code reuse, even if it wasn't built with Neutro in mind. It's the web the way that it was meant to be.
+Built upon [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components), Neutro offers the closest experience to the web platform for authoring web apps. The vision is minimalism and portability — avoid magical abstractions and enable more code reuse, even if it wasn't built with Neutro in mind. It's the web the way that it was meant to be.
 
 ## Current Status
 
